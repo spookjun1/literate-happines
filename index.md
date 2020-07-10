@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/spookjun1/literate-happines/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spookjun1/literate-happines/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+  <meta http-equiv="content-type" content="text/html; charset=windows-1250">
+  <meta name="generator" content="PSPad editor, www.pspad.com">
+  <title></title>
+  <body>
+  <h1 class="fullWidthGallery__title">THE ROOTS OF MY CUISINE ARE IN THE LAND I WAS BORN IN</h1>
+  <h1 class="fullWidthGallery__subtitle">ANTONINO CANNAVACCIUOLO<br /><img src="https://www.antoninocannavacciuolo.it/wp-content/uploads/2016/04/Home_page_antoninocannavacciuolo.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></h1>
+  <h3><span class="custom-font-1-hairline custom-font-1-thin">My cuisine</span></h3>
+  <h5 class="uppercase">COOKING FOR ME IS LISTENING TO THE CALL OF THE PLACES I GREW UP IN: THE SMELL OF THE SEA,<span class="facy-underscore facy-underline fancy-underline">THE SCENT OF LEMONS</span>, OF HOME.</h5>
+  <p>&nbsp;</p>
+  <p>Inspiration comes from memories but skill comes from hard work, long nights spent in the kitchen and true passion for a very demanding profession that may not automatically bring rewards for all your efforts. Like in life itself, a meeting point is everything: between north and south, sea and mountains &ndash; the secret is balance.</p>
+  <p>I don&rsquo;t feel as if I were an innovator, I go in-depth, losing myself in flavours that come from tradition, trying to bring a new form to life while respecting each ingredient.</p>
+  </body>
+</html>
